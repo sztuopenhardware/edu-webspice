@@ -1,0 +1,6 @@
+node_modules
+dist
+.tools
+*.local
+*.mp4
+tsconfig.tsbuildinfo
